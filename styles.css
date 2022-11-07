@@ -50,26 +50,26 @@ h1, h2, h3, h4, p {
     margin: 0 auto;
     height: 400px;
     width: 400px;
-    background-image: url("/images/gift-cover.jpg");
+    background-image: url("images/gift-cover.jpg");
     background-size: cover;
     border: 6px solid white;
     border-radius: 10px;
 }
 
 #gift-img-happy:hover {
-    background-image: url("/images/happy.gif");
+    background-image: url("images/happy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("/images/hot.gif");
+    background-image: url("images/hot.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("/images/genius.gif");
+    background-image: url("images/genius.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("/images/badass.gif");
+    background-image: url("images/badass.gif");
 }
 
 #gift-img-cheers {
@@ -77,7 +77,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover {
-    background-image: url("/images/cheers.gif");
+    background-image: url("images/cheers.gif");
 }
 
 footer{
